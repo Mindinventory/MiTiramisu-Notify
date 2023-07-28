@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiTiramisu-Notify</string>
+    <string name="runtime_permission">Runtime Notification Permission in Android 13</string>
+    <string name="using_xml">Using XML</string>
+    <string name="using_jetpack_compose">Using Jetpack Compose</string>
+    <string name="notification_permission_required">Notification Permission required</string>
+    <string name="go_to_settings">Go to settings</string>
+    <string name="detail_screen">Detail Screen</string>
+</resources>
